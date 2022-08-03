@@ -11,7 +11,7 @@ public class Main {
 	         iIndex++;
 	         System.out.println("Hello otv " + iIndex);
 	         
-	         if(iIndex >= 20000)
+	         if(iIndex >= 30000)
 	         {
 	            iIndex = 0;	            
 	         }
